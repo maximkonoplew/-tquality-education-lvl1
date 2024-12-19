@@ -1,0 +1,13 @@
+{
+"browser": {
+    "start_url": "https://demoqa.com/",
+    "load_strategy": "eager",
+    "language_browser": "--lang=en",
+    "operating_mode": "--incognito",
+    "screen size": "--start-maximized"
+    },
+
+"wait": {
+    "time_out": 5
+    }
+}

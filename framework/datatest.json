@@ -1,0 +1,26 @@
+{
+    "alerts": {
+        "locator_main_page": "//div[@class='category-cards']",
+        "name_main_page": "category-cards",
+        "locator_alert_page": "//div[@class='left-pannel']",
+        "name_alert_page": "left-pannel",
+        "alert_title": "You clicked a button",
+        "alert_confirm_title": "Do you confirm action?",
+        "alert_confirm_result": "You selected Ok",
+        "alert_prompt_title": "Please enter your name",
+        "name_alert_prompt": "Max",
+        "alert_prompt_result": "You entered Max"
+    },
+
+    "frames":{
+        "locator_frame_page": "//div[@class='left-pannel']",
+        "name_frame_page": "left-pannel",
+        "name_parent_frame": "Parent frame",
+        "name_child_Iframe": "Child Iframe"
+    },
+
+    "tables":{
+        "locator_table_page": "//div[@class='left-pannel']",
+        "name_table_page": "left-pannel"
+    }
+}
